@@ -1,0 +1,7 @@
+{
+  "name": "Neon Rhythm - Drum Kit Simulator",
+  "description": "A sophisticated virtual drum kit with 9 high-quality pads, real-time keyboard mapping, visual feedback, and hit logging.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
